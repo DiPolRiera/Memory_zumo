@@ -1,3 +1,3 @@
 # Memory_zumo
 
-![Zumo](https://github.com/DiPolRiera/Memory_zumo/zumo32u4.png)
+![Zumo](https://github.com/DiPolRiera/Memory_zumo/blob/main/Zumo32u4.png)
